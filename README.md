@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Ilia 👋
 
-<!--
-**LoginovIlia/LoginovIlia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior backend engineer based in New York with 10+ years of experience building scalable services in Go and PHP.
 
-Here are some ideas to get you started:
+🔧 **Tech I'm working with:**
+- Go, PHP, Js
+- Kubernetes, Docker, Redis, RabbitMQ
+- CI/CD (GitLab), Linux, Bash, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 **What I write about:**
+- Building production-grade backend services
+- Workflow orchestration with Temporal
+- Microservices and infrastructure on Kubernetes
+
+📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/loginov-ilia-it)
+
+Thanks for visiting!
