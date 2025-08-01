@@ -10,11 +10,6 @@ Temporal, and Camunda.
 - RabbitMQ, Kafka, Redis, MySQL, PostgreSQL
 - CI/CD (GitLab), Linux, Bash, Python
 
-🧠 **What I write about:**
-- Building production-grade backend services
-- Workflow orchestration with Temporal
-- Microservices and infrastructure on Kubernetes
-
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/loginov-ilia-it)
 
