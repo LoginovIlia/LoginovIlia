@@ -12,5 +12,8 @@ Temporal, and Camunda.
 
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/loginov-ilia-it)
+- [WhatsApp](https://wa.me/message/IZEU4237IBH2L1)
+- [Telegram](https://t.me/Loginov_Ilia)
+- [Medium](https://medium.com/@LoginovIlia)
 
 Thanks for visiting!
